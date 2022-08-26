@@ -2,8 +2,6 @@ package chess;
 
 import java.util.Scanner;
 
-import com.google.common.base.Preconditions;
-
 public class Player {
 	private final Color color;
 	private final String name;
