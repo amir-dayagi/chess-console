@@ -1,5 +1,5 @@
 # chess-console
-
+chess-console is a console 2-player Chess game, written in Java.
 
 ## Installation
 chess-console is installed by cloning the repository.
